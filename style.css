@@ -1,0 +1,8 @@
+h1.center{color:#000000;text-align:center;font-size:100px;background-color:dodgerblue;border: 10px dashed black;border-width: 10px;}
+div p{
+    width: 320px;
+    padding:10px;
+    border: 5px solid gray;
+    margin:0;
+
+}
